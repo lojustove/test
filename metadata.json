@@ -1,0 +1,5 @@
+{
+  "name": "Costa Brava Minimarket",
+  "description": "Una aplicación web para el minimercado Costa Brava, permitiendo a los usuarios explorar productos, agregarlos a un carrito y realizar pedidos a través de WhatsApp.",
+  "requestFramePermissions": []
+}

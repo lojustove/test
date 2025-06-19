@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "prod_1",
+    "name": "Base de Maquillaje Pro",
+    "category": "Maquillaje",
+    "price": 22.50,
+    "description": "Cobertura total y acabado mate natural. Larga duración.",
+    "imageUrl": "https://picsum.photos/seed/prod_1/400/300"
+  },
+  {
+    "id": "prod_2",
+    "name": "Paleta de Sombras Nude",
+    "category": "Maquillaje",
+    "price": 18.00,
+    "description": "12 tonos versátiles para looks de día y noche.",
+    "imageUrl": "https://picsum.photos/seed/prod_2/400/300"
+  },
+  {
+    "id": "prod_3",
+    "name": "Jamón Ibérico de Bellota",
+    "category": "Charcutería",
+    "price": 15.75,
+    "description": "100g de auténtico jamón ibérico, curado artesanalmente.",
+    "imageUrl": "https://picsum.photos/seed/prod_3/400/300"
+  },
+  {
+    "id": "prod_4",
+    "name": "Queso Manchego Curado",
+    "category": "Charcutería",
+    "price": 9.20,
+    "description": "250g de queso manchego con D.O., sabor intenso.",
+    "imageUrl": "https://picsum.photos/seed/prod_4/400/300"
+  },
+  {
+    "id": "prod_5",
+    "name": "Ron Diplomático Reserva",
+    "category": "Licores",
+    "price": 35.00,
+    "description": "Ron venezolano premium, suave y complejo.",
+    "imageUrl": "https://picsum.photos/seed/prod_5/400/300"
+  },
+  {
+    "id": "prod_6",
+    "name": "Vino Tinto Malbec Reserva",
+    "category": "Licores",
+    "price": 12.99,
+    "description": "Vino argentino con notas de frutos rojos y madera.",
+    "imageUrl": "https://picsum.photos/seed/prod_6/400/300"
+  },
+  {
+    "id": "prod_7",
+    "name": "Aceitunas Rellenas de Anchoa",
+    "category": "Snacks",
+    "price": 3.50,
+    "description": "Lata de 350g, perfectas para aperitivos.",
+    "imageUrl": "https://picsum.photos/seed/prod_7/400/300"
+  },
+  {
+    "id": "prod_8",
+    "name": "Pan Artesanal de Masa Madre",
+    "category": "Panadería",
+    "price": 4.00,
+    "description": "Hogaza de pan crujiente y miga esponjosa.",
+    "imageUrl": "https://picsum.photos/seed/prod_8/400/300"
+  },
+  {
+    "id": "prod_9",
+    "name": "Leche Entera Larga Vida",
+    "category": "Lácteos",
+    "price": 1.80,
+    "description": "Pack de 1L de leche UHT.",
+    "imageUrl": "https://picsum.photos/seed/prod_9/400/300"
+  },
+  {
+    "id": "prod_10",
+    "name": "Cerveza Artesanal IPA",
+    "category": "Licores",
+    "price": 3.25,
+    "description": "Botella de 330ml, amargor equilibrado y aromas cítricos.",
+    "imageUrl": "https://picsum.photos/seed/prod_10/400/300"
+  }
+]
